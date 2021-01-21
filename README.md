@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-green?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Java](https://img.shields.io/badge/-Java-red?logo=java)
-![C#](https://img.shields.io/badge/%20-C%23-orange?logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=ffffff)
+![C#](https://img.shields.io/badge/%20-C%23-orange?logo=c-sharp&logoColor=ffffff)
 
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/anilcanboga?tab=repositories](https://github.com/anilcanboga?tab=repositories)
 
-// - 📫 How to reach me **#**
+<!-- - 📫 How to reach me **#** -->
 
 
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilcanboga&show_icons=true" alt="anilcanboga" /></p>
 
 <p align="center">
-// <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ercument196" height="30" width="30" /></a>
+<!-- <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ercument196" height="30" width="30" /></a> -->
 <a href="https://www.linkedin.com/in/anilcanboga/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-profile" height="30" width="30" /></a>
-// <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="linkedin-profile" height="30" width="30" /></a>
-</p>
+<!-- <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="linkedin-profile" height="30" width="30" /></a>
+</p> -->
