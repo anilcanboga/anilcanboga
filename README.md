@@ -28,11 +28,11 @@
 
 
 
-<center>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcanboga&layout=compact&hide=html" alt="anilcanboga" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcanboga&layout=compact&hide=html" alt="anilcanboga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilcanboga&show_icons=true" alt="anilcanboga" /></p>
-</center>
+
 <p align="center">
 <!-- <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ercument196" height="30" width="30" /></a> -->
 <a href="https://www.linkedin.com/in/anilcanboga/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-profile" height="30" width="30" /></a>
