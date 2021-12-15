@@ -34,7 +34,7 @@
 <!--
 <img align="center" alt="anilcanboga's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcanboga" />
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilcanboga&show_icons=true" alt="anilcanboga" />
+<img align="center" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=anilcanboga&show_icons=true" alt="anilcanboga" />
 
 <p align="center">
 <!-- <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ercument196" height="30" width="30" /></a> -->
