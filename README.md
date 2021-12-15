@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anılcan BOĞA</h1>
-<h4 align="left">Hello everyone, I am a Software Engineer.</h4>
+<h4 align="center">I am a Software Engineer.</h4>
 
 
 <h3>Languages and Tools 🛠 </h3>
@@ -20,22 +20,22 @@
 <!-- - 📫 How to reach me **#** -->
 
 
-
-### Projects you should look into: 💬
+<!--
+  ## Projects you should look into: 💬
 - [Electronic Parking System](https://github.com/EPSGrup13/EPS)
 - [Market FiyatOtomasyonu](https://github.com/anilcanboga/MarketFiyatOtomasyonu)
 - [İs Takip Uygulamasi](https://github.com/anilcanboga/is-takip-uygulamasi)
 - [KutuphaneOtomasyonu](https://github.com/anilcanboga/KutuphaneOtomasyonu)
+-->
 
+  ## Stats
 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcanboga&layout=compact&hide=html" alt="anilcanboga" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilcanboga&show_icons=true" alt="anilcanboga" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcanboga&layout=compact&hide=html" alt="anilcanboga" />
+<img align="center" alt="anilcanboga's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcanboga" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilcanboga&show_icons=true" alt="anilcanboga" />
 
 <p align="center">
 <!-- <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ercument196" height="30" width="30" /></a> -->
 <a href="https://www.linkedin.com/in/anilcanboga/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-profile" height="30" width="30" /></a>
-<!-- <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="linkedin-profile" height="30" width="30" /></a>
-</p> -->
+<a href="https://medium.com/@anilcanboga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="linkedin-profile" height="30" width="30" /></a>
+</p>
