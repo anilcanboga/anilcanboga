@@ -30,8 +30,10 @@
 
   ## Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcanboga&layout=compact&hide=html" alt="anilcanboga" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcanboga&layout=compact&hide=html" alt="anilcanboga" />
+<!--
 <img align="center" alt="anilcanboga's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcanboga" />
+-->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anilcanboga&show_icons=true" alt="anilcanboga" />
 
 <p align="center">
