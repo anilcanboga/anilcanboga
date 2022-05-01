@@ -23,7 +23,7 @@
   <a href="" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" alt="" width="40" height="45" /> </a> 
 -->
 
-<br>
+
 ## Technologies, Languages & Tools 🛠
 
 <p align="left"> 
