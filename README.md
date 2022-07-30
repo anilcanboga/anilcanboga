@@ -107,3 +107,8 @@ function details() {
 <div width="100%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anilcanboga&show_icons=true" alt="anilcanboga" />
+
+<p align="center">
+<a href="https://www.linkedin.com/in/anilcanboga/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-profile" height="30" width="30" /></a>
+<a href="https://medium.com/@anilcanboga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="linkedin-profile" height="30" width="30" /></a>
+</p>
