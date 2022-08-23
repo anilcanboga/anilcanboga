@@ -112,3 +112,5 @@ function details() {
 <a href="https://www.linkedin.com/in/anilcanboga/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-profile" height="30" width="30" /></a>
 <a href="https://medium.com/@anilcanboga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium-profile" height="30" width="30" /></a>
 </p>
+
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width:100/>
