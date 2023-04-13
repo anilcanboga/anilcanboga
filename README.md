@@ -106,13 +106,27 @@ function details() {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcanboga&layout=compact&hide=html" alt="anilcanboga" />
 
+</div>
+
 <div width="100%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anilcanboga&show_icons=true" alt="anilcanboga" />
+
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anilcanboga/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-profile" height="30" width="30" /></a>
 <a href="https://medium.com/@anilcanboga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium-profile" height="30" width="30" /></a>
 </p>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width:100/>
+<div width="100%" align="center">
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"></img>
+</div>
+
+<br/>
+
+  <div width="100%" align="center">
+    <a href="https://www.linkedin.com/in/anilcanboga/" target="_blank">
+      <img align="center" alt="anilcanboga | LinkedIn" width="50px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
+    </a>
+  </div>
