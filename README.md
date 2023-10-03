@@ -65,9 +65,9 @@
 ### Hi everyone <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" width="31px"  height="33px" /> Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25">
 
 ```javascript
-function details() {
+const details = () => {
   return "My name is Anılcan Boğa";
-}
+};
 ```
 
 <div style="display:grid; grid-template-columns: 1fr 1fr;">
