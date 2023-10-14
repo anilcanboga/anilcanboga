@@ -60,9 +60,10 @@
 <a href="https://medium.com/@anilcanboga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium-profile" height="30" width="30" /></a>
 </p>
 
+### Hi everyone <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" width="31px"  height="33px" /> Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25">
 -->
 
-### Hi everyone <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" width="31px"  height="33px" /> Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25">
+### Hi everyone
 
 ```javascript
 const details = () => {
