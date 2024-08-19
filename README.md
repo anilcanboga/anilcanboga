@@ -81,24 +81,28 @@ const details = () => {
 <br/>
 🎓 I graduated from Yildiz Technical University with a master's degree.
 <br/>
-🖥️ I work as a Full Stack Developer.
+🖥️ I work as a Frontend Software Engineer.
 <br/>
 
 <p>
+  <!--
   <a href="https://laravel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="30" height="30" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="30" height="30" /> </a> 
+  -->
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="30" height="30" /></a> 
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="30" height="30" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="bootstrap" width="30" height="30" /></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="JavaScript" width="30" height="30" /></a>
-  <a href="https://jquery.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jQuery" width="30" height="30" /> </a> 
+  <a href="https://jquery.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jQuery" width="30" height="30" /></a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="30" height="30" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="30" height="30" /> </a>  
-  <a href="https://jestjs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" width="60" height="30" /> </a> 
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="30" height="30" /></a>  
+  <a href="https://jestjs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" width="60" height="30" /></a> 
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"><a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="30" height="30" /></a>
   <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30" /></a><a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="30" height="30" /></a>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" /></a>
+  <!--
   <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30" /><a>
+  -->
 </div>
 
 ---
