@@ -80,7 +80,7 @@ const hi = () => {
 <h3 align="center">i'm software frontend engineer</h3>
 
 <!-- <h3 align="left">get in touch with me:</h3> -->
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/anilcanboga/" target="_blank">
       <img align="center" alt="anilcanboga | LinkedIn"  height="30" width="40"  src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
     </a>
