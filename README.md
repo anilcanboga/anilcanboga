@@ -84,7 +84,7 @@ const hi = () => {
     <a href="https://www.linkedin.com/in/anilcanboga/" target="_blank">
       <img align="center" alt="anilcanboga | LinkedIn"  height="30" width="40"  src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
     </a>
-<a href="https://medium.com/anilcanboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="anilcanboga" height="30" width="40" /></a>
+<a href="https://medium.com/@anilcanboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="anilcanboga" height="30" width="40" /></a>
 </p>
 
 ---
