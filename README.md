@@ -82,7 +82,7 @@ const hi = () => {
 <!-- <h3 align="left">get in touch with me:</h3> -->
 <p align="center">
     <a href="https://www.linkedin.com/in/anilcanboga/" target="_blank">
-      <img align="center" alt="anilcanboga | LinkedIn"  height="30" width="40"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a><a href="https://medium.com/@anilcanboga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="anilcanboga" height="30" width="40" /></a>
+      <img align="center" alt="anilcanboga | LinkedIn"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a><a href="https://medium.com/@anilcanboga" target="blank"><img align="center" src="https://www.svgrepo.com/show/315301/medium.svg" alt="anilcanboga" height="30" width="40" /></a>
 </p>
 
 <!-- <h3 align="left">languages and tools:</h3> -->
