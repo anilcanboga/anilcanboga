@@ -34,13 +34,13 @@ const hi = () => {
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="12" />
@@ -60,8 +60,6 @@ const hi = () => {
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" /> 
   <img src="https://www.chartjs.org/media/logo-title.svg" height="40" alt="chartjs logo"  />
@@ -75,13 +73,15 @@ const hi = () => {
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" /> 
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" height="40" alt="sketch logo"  />
-  <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm logo"  />
-  <img width="12" /> 
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm logo"  />
+  <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="yarn logo"  />
   <img width="12" /> 
 </div>
