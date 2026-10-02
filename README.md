@@ -3,8 +3,14 @@ const hi = () => {
   return "anilcan boga";
 };
 ```
+<!-- <h3 align="center">i'm software frontend engineer</h3> -->
 
-<h3 align="center">i'm software frontend engineer</h3>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C1121F&center=false&vCenter=true&width=420&lines=software+frontend+engineer;React.js+%26+Next.js;frontend+culture"
+    alt="Software Frontend Engineer | React.js & Next.js | Frontend Culture"
+  />
+
 <p align="center">
     <h4 align="center"><a href="https://www.linkedin.com/in/anilcanboga/" target="_blank">
       LinkedIn</a> | <a href="https://medium.com/@anilcanboga" target="blank">medium</a></h4>
